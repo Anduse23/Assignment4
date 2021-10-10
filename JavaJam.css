@@ -1,0 +1,69 @@
+
+body { background-image:url(images/coffeeback.gif) ; 
+    color: #221811;
+    font-family: Verdana, Arial, sans-serif;
+}
+header{
+    background-color: #D2B48C;
+    background-image:url(images/logo.jpg);
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    height: 150px;
+    
+}
+main{
+    padding-left :2em;
+    padding-right:2em;
+    padding-bottom: 2em;
+    display: block;
+
+}
+h1 {
+    text-align: justify;
+    padding-top: 45px;
+    padding-left: 220px;
+    font-size: 3em;
+ }
+ h4{
+     background-color: #D2B48C;
+     font-size: 1.2em;
+     padding-left: .5em;
+     padding-bottom: 0.25em;
+ }
+.details{
+padding-right: 20%;
+padding-left: 20%;
+}
+img{
+    padding-right: 10px;
+    padding-left: 10px; 
+}
+ nav {
+    font-size: 1.5em;
+    padding-top: 10px;
+    text-align: center; 
+    font-weight: bold;
+    text-decoration: none;
+ }
+ footer{
+     background-color: #D2B48C;
+     font-size: .60em;
+     font-style: italic;
+     text-align: center;
+     color: #333333;
+     font-size: small;
+     padding-bottom: 10px;
+     border-top: 2px #221811;
+ }
+ 
+ #wrapper { background-color: #FEF6C2;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 1px 5px #050505;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+     }
+     
+
+
